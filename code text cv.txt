@@ -1,0 +1,18 @@
+
+    	<H1>Oldru Jean-Michel</H1>
+        <p>Auteur, compositeur et sapeur-pompier volontaire </br></p>
+
+        <p> <a href="imageprofilagrandie.jpg"> <img src="imageprofil.jpg" alt="Photo de profil" title="Cliquez pour agrandir"/></a></br></p>
+        
+        <ul><p> <h2> <strong>Mon expérience</strong> </h2>
+        <strong><li>De 1996 à 2017</strong> : Etude de l'Art à l'université Lyon III, animation le soir et week-end en</br> parallèle de mes etudes</li>
+        <strong><li>De 2000 à 2016</strong> : Sapeur-Pompier volontaire dans le village de Macon, monté en grade </br> jusqu'à Lieutenant</li>
+        <strong><li>De 2017 à aujourd'hui</strong> : Etude sur OpenclassRoom</li></p></ul></br>
+
+        <ul><p><h2><strong>Mes compétences</strong></h2></p>
+       	<li>Logique</li>
+       	<li>Apprend très vite</li>
+       	<li>Motivé</li></p></ul></br>
+
+       	<ul><p><h2><strong>Ma formation</strong></h2></p>
+       	<p>Ecole des beaux Art de Lyon, formation incendie et Openclassroom</p></ul>
